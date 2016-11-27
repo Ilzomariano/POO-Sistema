@@ -1,0 +1,16 @@
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\EntityFramework.dll
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\EntityFramework.xml
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\db_sistema.mdf
+C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\db_sistema_log.ldf
+C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.UI.FrmVenda.resources
+C:\Users\micha\Documents\Sistema\Sistema\Sistema\bin\Debug\Sistema.exe.config
