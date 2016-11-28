@@ -13,5 +13,4 @@ C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\db_sistema.mdf
 C:\Users\micha\Documents\Sistema\Sistema\bin\Debug\db_sistema_log.ldf
 C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
 C:\Users\micha\Documents\Sistema\Sistema\obj\Debug\Sistema.UI.FrmVenda.resources
-C:\Users\micha\Documents\Sistema\Sistema\Sistema\bin\Debug\Sistema.exe.config
 C:\Users\souza\POO-Sistema\Sistema\bin\Debug\Sistema.exe.config
