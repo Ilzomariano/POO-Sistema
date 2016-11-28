@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace InterfaceProduto
 {
-    public partial class Form1 : Form
+    public partial class FrmVendaView : Form
     {
-        public Form1()
+        public FrmVendaView()
         {
             InitializeComponent();
         }
